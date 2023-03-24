@@ -4,7 +4,7 @@
 - 🌱 Estudando JavaScript e praticando HTML5 e CSS3
 - 📫 Contate-me no email: wendellcs131@gmail.com
 - 🟢 Meu portfólio: [Wendellcs](https://wendellcs.github.io)
-- 
+
 
 ## Tecnologias que eu uso:
 
