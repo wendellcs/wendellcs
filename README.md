@@ -1,10 +1,8 @@
 # Olá! Eu sou o Wendell 😊
 
 - 🔭 Trabalho com desenvolvimento Front-end
-- 🌱 Estudando JavaScript e praticando HTML5 e CSS3
+- 🌱 Sempre praticando Html, css e Js
 - 📫 Contate-me no email: wendellcs131@gmail.com
-- 🟢 Meu portfólio: [Wendellcs](https://wendellcs.github.io)
-
 
 ## Tecnologias que eu uso:
 
