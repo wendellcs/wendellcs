@@ -1,6 +1,6 @@
 # Olá! Eu sou o Wendell 😊
 
-- 🔭 Trabalho com desenvolvimento Front-end
+- 🔭 Em busca da minha primeira oportunidade como desenvolvedor Front-end
 - 🌱 Sempre praticando Html, css e Js
 - 📫 Contate-me no email: wendellcs131@gmail.com
 
