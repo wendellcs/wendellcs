@@ -2,7 +2,7 @@
 
 - 🔭 Em busca da minha primeira oportunidade como desenvolvedor Front-end
 - 🌱 Sempre praticando o que aprendi
-- 📫 Contate-me no email: wendellcs131@gmail.com
+- 📫 Entre em contato comigo no email: wendellcs131@gmail.com
 
 ## Tecnologias que eu uso:
 
