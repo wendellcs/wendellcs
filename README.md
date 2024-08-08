@@ -19,4 +19,4 @@
 Busco constantemente aprender coisas novas com o objetivo de aprimorar cada vez mais meus projetos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendell-de-carvalho-silva-63ba86219/)
-[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://wendellcs.github.io](https://portfolio-iota-gold-37.vercel.app))
+[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-iota-gold-37.vercel.app)
