@@ -1,6 +1,5 @@
 # Olá! Eu sou o Wendell 😊
 
-- 🔭 Em busca da minha primeira oportunidade como desenvolvedor Front-end
 - 🌱 Sempre praticando o que aprendi
 - 📫 Entre em contato comigo no email: wendellcs131@gmail.com
 
